@@ -1,0 +1,60 @@
+# CLAUDE.md
+
+> Shared context for Claude sessions. **Commit this to git.**
+
+## Project
+
+**Name**: [PROJECT_NAME]
+**Stack**: [LANGUAGES/FRAMEWORKS]
+**Repo**: [GITHUB_URL]
+
+## Agent Commands
+
+| Command | Description |
+|---------|-------------|
+| `/innovation-scout [topic]` | GitHub + arXiv research |
+| `/deep-research [topic]` | Multi-source investigation |
+| `/remember [fact]` | Store to memory |
+| `/sync` | Push/pull state |
+| `/archive` | Close session |
+
+## Workflow
+
+```
+Mode:     Auto-accept (always)
+Model:    Opus 4.5 with thinking
+Plan:     Shift+Tab twice → iterate → execute
+```
+
+## Antigravity Shortcuts
+
+| Key | Action |
+|-----|--------|
+| ⌘E | Agent Manager |
+| ⌘L | Code with Agent |
+| ⌘I | Edit inline |
+
+## Architecture Decisions
+
+_Document key decisions here..._
+
+## Code Patterns
+
+_Patterns to follow..._
+
+## Do NOT
+
+- Don't modify deps without asking
+- Don't commit directly; create PRs
+- Don't ignore test failures
+
+## Memory
+
+| Scope | Location |
+|-------|----------|
+| Project | `.agent/memory.md` |
+| Global | `~/.agent-core/memory/global.md` |
+
+---
+
+*This file is read by Claude at session start.*

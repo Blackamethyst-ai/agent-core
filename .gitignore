@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Session data (user-specific, don't commit)
+.agent/
+sessions/
+*.json.bak
+
+# Packaged skill
+*.skill
+
+# Logs
+*.log
+logs/
+
+# Local config overrides
+config.local.json
