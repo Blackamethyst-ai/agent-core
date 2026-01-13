@@ -1,0 +1,17 @@
+# Agent Core Code Owners
+# Metaventions AI
+
+# Default owner for everything
+* @Blackamethyst-ai
+
+# Core scripts
+scripts/ @Blackamethyst-ai
+
+# Workflows
+workflows/ @Blackamethyst-ai
+
+# Setup
+setup.sh @Blackamethyst-ai
+
+# GitHub config
+.github/ @Blackamethyst-ai

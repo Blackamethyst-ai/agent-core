@@ -1,23 +1,59 @@
-# Agent Core
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a0080,100:00d9ff&height=200&section=header&text=Agent%20Core&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Unified%20Research%20Orchestration&descSize=20&descAlignY=55" />
+</p>
 
-Unified research orchestration for CLI, Antigravity (VSCode OSS), and web environments.
+<p align="center">
+  <strong>Agentic research workflows for CLI, Antigravity, and web environments</strong>
+</p>
 
-Built for agentic workflows — parallel sessions, auto-accept, plan-first execution.
+<p align="center">
+  <em>"Let the invention be hidden in your vision"</em>
+</p>
 
-## Features
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.0.0-00d9ff?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/Python-3.9+-4a0080?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" alt="Status" />
+</p>
 
-- 🔍 **Innovation Scout** — Dual-filter GitHub + arXiv research
-- 📝 **URL Logging** — Track every URL visited (used or not)
-- 🔄 **Cross-Environment Sync** — CLI ↔ Antigravity ↔ Web
-- 🧠 **Long-Term Memory** — Auto-extract learnings from sessions
-- 📊 **Session Management** — Archive, resume, review past research
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-CLI-1a1a2e?style=for-the-badge" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Antigravity-VSCode_OSS-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Cross_Environment-Sync-00d9ff?style=for-the-badge" alt="Sync" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Metaventions_AI-Architected_Intelligence-1a1a2e?style=for-the-badge" alt="Metaventions AI" />
+</p>
+
+---
+
+## Summary | Features | Quick Start | Commands | Architecture | Workflows
+
+---
+
+## Summary
+
+**Agent Core** is a unified research orchestration framework designed for agentic workflows. It enables parallel sessions, auto-accept execution, and plan-first development across multiple environments.
+
+### Key Capabilities
+
+- **Innovation Scout** — Dual-filter GitHub + arXiv research (Viral + Groundbreaker)
+- **URL Logging** — Track every URL visited with relevance scoring
+- **Cross-Environment Sync** — Seamless CLI ↔ Antigravity ↔ Web state sharing
+- **Long-Term Memory** — Auto-extract learnings from research sessions
+- **Session Management** — Archive, resume, and review past research
+
+---
 
 ## Quick Start
 
 ```bash
-# Install
+# Clone
 git clone https://github.com/Blackamethyst-ai/agent-core.git
 cd agent-core
+
+# Install
 chmod +x setup.sh
 ./setup.sh
 
@@ -30,6 +66,8 @@ agent-log https://github.com/user/repo --used --relevance 3
 agent-sync status
 agent-archive
 ```
+
+---
 
 ## Commands
 
@@ -44,6 +82,8 @@ agent-archive
 | `agent-sync push` | Push local → global |
 | `agent-sync pull` | Pull global → local |
 | `agent-archive` | Close session, extract learnings |
+
+---
 
 ## Architecture
 
@@ -69,6 +109,8 @@ agent-archive
 └── memory.md                     # Project memory
 ```
 
+---
+
 ## Workflows
 
 ### Innovation Scout
@@ -77,8 +119,10 @@ agent-archive
 agent-init "topic" --workflow innovation-scout
 ```
 
-- **Viral Filter**: `stars:>500 pushed:>30days` — Production-ready
-- **Groundbreaker Filter**: `stars:10..200 created:>90days` — Novel/emerging
+| Filter | Query | Purpose |
+|--------|-------|---------|
+| **Viral** | `stars:>500 pushed:>30days` | Production-ready, validated |
+| **Groundbreaker** | `stars:10..200 created:>90days` | Novel, emerging patterns |
 
 ### Deep Research
 
@@ -86,7 +130,20 @@ agent-init "topic" --workflow innovation-scout
 agent-init "topic" --workflow deep-research
 ```
 
-Multi-source investigation with artifact extraction.
+Multi-source investigation with artifact extraction across GitHub, arXiv, HuggingFace, and more.
+
+---
+
+## Scripts
+
+| Script | Alias | Purpose |
+|--------|-------|---------|
+| `init_session.py` | `agent-init` | Initialize research sessions |
+| `log_url.py` | `agent-log` | Log URLs with metadata |
+| `sync_environments.py` | `agent-sync` | Cross-environment state sync |
+| `archive_session.py` | `agent-archive` | Archive and extract learnings |
+
+---
 
 ## Antigravity Shortcuts
 
@@ -95,6 +152,8 @@ Multi-source investigation with artifact extraction.
 | ⌘E | Switch to Agent Manager |
 | ⌘L | Code with Agent |
 | ⌘I | Edit code inline |
+
+---
 
 ## Parallel Sessions
 
@@ -105,6 +164,8 @@ Tab 4: Testing
 Tab 5: Documentation
 ```
 
+---
+
 ## Updating
 
 ```bash
@@ -113,16 +174,37 @@ git pull
 ./setup.sh --update
 ```
 
+---
+
 ## Requirements
 
 - Python 3.9+
 - macOS / Linux
 - Optional: Claude Code CLI, Antigravity IDE
 
+---
+
 ## License
 
-MIT
+MIT License — See [LICENSE](LICENSE)
 
-## Author
+---
 
-Dico Angelo / [Blackamethyst AI](https://github.com/Blackamethyst-ai)
+## Contact
+
+**Metaventions AI**
+Dico Angelo
+dicoangelo@metaventionsai.com
+
+<p align="center">
+  <a href="https://metaventions-ai-architected-intelligence-1061986917838.us-west1.run.app/">
+    <img src="https://img.shields.io/badge/Metaventions_AI-Website-00d9ff?style=for-the-badge" alt="Website" />
+  </a>
+  <a href="https://github.com/Blackamethyst-ai">
+    <img src="https://img.shields.io/badge/GitHub-Blackamethyst--ai-1a1a2e?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a0080,100:00d9ff&height=100&section=footer" />
+</p>
