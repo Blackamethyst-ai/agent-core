@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0.0-00d9ff?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-2.1.0-00d9ff?style=for-the-badge" alt="Version" />
   <img src="https://img.shields.io/badge/Python-3.9+-4a0080?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" alt="Status" />
 </p>
@@ -29,6 +29,16 @@
 ---
 
 ## Summary | Features | Quick Start | Commands | Architecture | Workflows
+
+---
+
+## What's New in v2.1 (January 2026)
+
+| Feature | Description |
+|---------|-------------|
+| **ResearchGravity v3.3** | YouTube channel research integration |
+| **Ecosystem Registry** | 6 projects now cross-referenced |
+| **Session Lineage** | Full provenance tracking across projects |
 
 ---
 
