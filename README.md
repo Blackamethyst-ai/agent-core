@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.1.0-00d9ff?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-2.2.0-00d9ff?style=for-the-badge" alt="Version" />
   <img src="https://img.shields.io/badge/Python-3.9+-4a0080?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" alt="Status" />
 </p>
@@ -32,7 +32,16 @@
 
 ---
 
-## What's New in v2.1 (January 2026)
+## What's New in v2.2 (January 2026)
+
+| Feature | Description |
+|---------|-------------|
+| **ResearchGravity v3.5** | Precision Bridge research methodology |
+| **OS-App v1.3 Integration** | ACE, RLM, DQ Scoring implementations |
+| **Cognitive Wallet** | 54 sessions, 306 papers, 3,200+ URLs accumulated |
+| **Deep Dive Workflow** | Multi-paper synthesis with implementation output |
+
+### v2.1 Changelog
 
 | Feature | Description |
 |---------|-------------|
