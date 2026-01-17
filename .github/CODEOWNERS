@@ -2,16 +2,16 @@
 # Metaventions AI
 
 # Default owner for everything
-* @Blackamethyst-ai
+* @Dicoangelo
 
 # Core scripts
-scripts/ @Blackamethyst-ai
+scripts/ @Dicoangelo
 
 # Workflows
-workflows/ @Blackamethyst-ai
+workflows/ @Dicoangelo
 
 # Setup
-setup.sh @Blackamethyst-ai
+setup.sh @Dicoangelo
 
 # GitHub config
-.github/ @Blackamethyst-ai
+.github/ @Dicoangelo

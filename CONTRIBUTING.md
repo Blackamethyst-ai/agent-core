@@ -5,10 +5,10 @@ Thank you for your interest in contributing to **Agent Core** by Metaventions AI
 ## Ways to Contribute
 
 ### 1. Report Bugs
-Use the [Bug Report template](https://github.com/Blackamethyst-ai/agent-core/issues/new?template=bug_report.yml) to report issues.
+Use the [Bug Report template](https://github.com/Dicoangelo/agent-core/issues/new?template=bug_report.yml) to report issues.
 
 ### 2. Suggest Features
-Use the [Feature Request template](https://github.com/Blackamethyst-ai/agent-core/issues/new?template=feature_request.yml) to propose new features.
+Use the [Feature Request template](https://github.com/Dicoangelo/agent-core/issues/new?template=feature_request.yml) to propose new features.
 
 ### 3. Submit Pull Requests
 

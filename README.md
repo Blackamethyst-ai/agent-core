@@ -60,7 +60,7 @@
 
 ```bash
 # Clone
-git clone https://github.com/Blackamethyst-ai/agent-core.git
+git clone https://github.com/Dicoangelo/agent-core.git
 cd agent-core
 
 # Install
@@ -210,8 +210,8 @@ dicoangelo@metaventionsai.com
   <a href="https://metaventions-ai-architected-intelligence-1061986917838.us-west1.run.app/">
     <img src="https://img.shields.io/badge/Metaventions_AI-Website-00d9ff?style=for-the-badge" alt="Website" />
   </a>
-  <a href="https://github.com/Blackamethyst-ai">
-    <img src="https://img.shields.io/badge/GitHub-Blackamethyst--ai-1a1a2e?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/Dicoangelo">
+    <img src="https://img.shields.io/badge/GitHub-Dicoangelo-1a1a2e?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
